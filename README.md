@@ -23,7 +23,7 @@
       <a href="https://steamcommunity.com/id/FrankusBR/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
       <a href="https://account.xbox.com/pt-br/profile?gamertag=patrickxfranco" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
       <a href="https://open.spotify.com/user/patrickxfranco?si=4cc4b95b47de4ba0" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-      <a href="mailto:someone@microsoft.com?subject=GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="mailto:patrickxfranco@gmail.com?subject=GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <p>⏫ Fique a vontade para me seguir nas redes sociais ou me mandar uma mensagem! ;) ⏫</p>
   <p> </p>
   <p><br></p>
