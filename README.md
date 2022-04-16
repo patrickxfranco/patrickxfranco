@@ -4,6 +4,9 @@
   <p><br></p>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patrickxfranco&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <p><br></p>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickxfranco&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--</div>-->
 
@@ -22,5 +25,7 @@
       <a href="https://open.spotify.com/user/patrickxfranco?si=4cc4b95b47de4ba0" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
       <a href="mailto:someone@microsoft.com?subject=GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <p>⏫ Fique a vontade para me seguir nas redes sociais ou me mandar uma mensagem! ;) ⏫</p>
+  <p> </p>
+  <p><br></p>
   
   </div>
