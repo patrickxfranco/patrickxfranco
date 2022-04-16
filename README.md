@@ -9,7 +9,7 @@
   
 <!--</div>-->
 
- <p><br>Olá, me chamo Patrick e sou formado em Análise e Desenvolvimento de Sistemas pela Anhanguera, moro no ABC Paulista e infelizmente ainda não consegui um emprego como desenvolvedor. Atualmente tenho estudado C# desenvolvendo algumas aplicações console.</p>
+  <p><br>Olá, me chamo <b>Patrick</b> e sou formado em <b>Análise e Desenvolvimento de Sistemas</b> pela <b>Anhanguera</b>, moro no ABC Paulista e infelizmente ainda não consegui um emprego como desenvolvedor. Atualmente tenho estudado C# desenvolvendo algumas aplicações console.</p>
   
   ##
   
