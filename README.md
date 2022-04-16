@@ -4,7 +4,6 @@
   <p><br></p>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patrickxfranco&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  <p><br></p>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickxfranco&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
   
