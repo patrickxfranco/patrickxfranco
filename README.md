@@ -3,6 +3,7 @@
 Estudante em @Guanabara
 
 [![Static Badge](https://img.shields.io/badge/patrickxfranco%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:patrickxfranco@gmail.com)
+[![Static Badge](https://img.shields.io/badge/patrickxfranco-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickxfranco/)
 [![Static Badge](https://img.shields.io/badge/%40patrickxfranco-black?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/patrickxfranco/)
 [![Static Badge](https://img.shields.io/badge/%40patrickxfranco-black?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@patrickxfranco)
 
