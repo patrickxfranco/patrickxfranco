@@ -11,6 +11,6 @@ Ex aluno do Explorer na `@Rocketseat` e formado em ADS pela `@Anhanguera`.
 
 Apaixonado por tecnologia, jogos e música! Vivo em São Paulo e nunca trabalhei na minha área de formação, estou estudando para conseguir um bom portifólio com minhas idéias mirabolantes, sou legal, então se precisar de alguma ajuda vou fazer questão em ajudar se for possível!
 
-Me chama no discord e vamos contribuir com a evolução da humanidade! ;)
+Me chama no discord e vamos conversar! ;)
 
 [![Static Badge](https://img.shields.io/badge/Homosapiens-black?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/GDEhCs2tv2)
