@@ -1,6 +1,6 @@
 # Patrick Franco
 
-Estudante em [@Rocketseat](https://www.rocketseat.com.br)
+Estudante em `@Rocketseat`
 
 [![Static Badge](https://img.shields.io/badge/patrickxfranco%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:patrickxfranco@gmail.com)
 [![Static Badge](https://img.shields.io/badge/patrickxfranco-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickxfranco/)
