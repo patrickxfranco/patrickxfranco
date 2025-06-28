@@ -8,6 +8,8 @@ Estudante na `@Rocketseat`
 [![Static Badge](https://img.shields.io/badge/patrickxfranco-black?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/patrickxfranco)
 [![Static Badge](https://img.shields.io/badge/patrickxfranco-black?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/patrickxfranco/)
 [![Static Badge](https://img.shields.io/badge/FrankusBR-black?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/frankusbr/clips?filter=clips&range=all)
+<br/>
+[![Static Badge](https://img.shields.io/badge/patrickxfranco-black?style=flat-square&logo=imgur&logoColor=white)](https://imgur.com/user/patrickxfranco/posts)
 
 Aluno na `@Rocketseat` e formado em Análise e Desenvolvimento de Sistemas pela `@Anhanguera`.
 
