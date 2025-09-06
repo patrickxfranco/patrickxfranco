@@ -11,7 +11,7 @@ Estudante na `@Rocketseat`
 <br/>
 [![Static Badge](https://img.shields.io/badge/patrickxfranco-black?style=flat-square&logo=imgur&logoColor=white)](https://imgur.com/user/patrickxfranco/posts)
 
-Aluno na `@Rocketseat` e formado em Análise e Desenvolvimento de Sistemas pela `@Anhanguera`.
+Ex-aluno na `@Rocketseat` e formado em Análise e Desenvolvimento de Sistemas pela `@Anhanguera`.
 
 Me chama no discord e vamos conversar! ;)
 
